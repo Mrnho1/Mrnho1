@@ -1,9 +1,10 @@
 ## Oie eu sou o Lucas Marinho, desenvolvedor web e apaixonado por tecnologia!
-<li>Cursando Análise e Desenvolvimento de Sistemas(UNICID).
-<li>Cursando Desenvolvimento Web(IOS).
+Cursando Análise e Desenvolvimento de Sistemas(UNICID).<br>
+Cursando Desenvolvimento Web(IOS).
 
-## Minhas tecnologias
-<div style="display: inline_block align="center>
+##
+Minhas tecnologias
+
 <div align="center">
   <a href="https://github.com/Mrnho1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrnho1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,9 +19,9 @@
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 </div>
-  </div>
   
- ## Minhas Redes Sociais
+ ##
+ Minhas Redes Sociais
  
 <div> 
  <a href="https://discord.com/channels/@me/1006704964040671243" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
