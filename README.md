@@ -1,7 +1,8 @@
-## Oi eu sou o Lucas Marinho, desenvolvedor web e desenvolvedor Java!
+## Oi eu sou o Lucas Marinho, Desenvolvedor Web!
 Cursando Análise e Desenvolvimento de Sistemas(UNICID).<br>
-Cursando Desenvolvimento Full Stack (Generation).<br>
-Curso completo Desenvolvimento Web(IOS).
+Cursando Start Tech Desenvolvimento Web em Angular(TOTVS).<br>
+Curso completo Desenvolvimento Full Stack (Generation).<br>
+Curso completo Desenvolvimento Web em React(IOS).
 
 ##
 Minhas tecnologias
