@@ -16,6 +16,16 @@ Minhas tecnologias
   <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="center" alt="Lucas-JS" height="25" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    </a>
+
+  <a href = "">
+  <img align="center" alt="Lucas-TS" height="25" width="80" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   </a>
+
+<a href = "">
+  <img align="center" alt="Lucas-TS" height="25" width="80" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+   </a>
+
+
    
   <a href = "https://legacy.reactjs.org/">
   <img align="center" alt="Lucas-React" height="25" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -45,9 +55,6 @@ Minhas tecnologias
   <img align="center" alt="Lucas-Spring" height="25" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
    </a>
    
-  <a href = "https://www.ibm.com/docs/pt/i/7.2?topic=languages-c-c">
-  <img align="center" alt="Lucas-C" height="25" width="80" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-   </a>
   
   <a href = "https://dev.mysql.com/doc/">
   <img align="center" alt="Lucas-MySQL" height="25" width="80" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
