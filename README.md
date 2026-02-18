@@ -46,17 +46,6 @@ Tenho interesse em oportunidades corporativas que envolvam:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Mrnho1">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mrnho1&show_icons=true&theme=default"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrnho1&layout=compact&theme=default"/>
-  </a>
-</div>
-
----
-
 ## Contato
 
 📧 Email: ls.marinho36@gmail.com  
